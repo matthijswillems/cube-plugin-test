@@ -1,0 +1,11 @@
+{
+  "name": "cube-plugin-test",
+  "version": "0.0.1",
+  "description": "Cube plugin test",
+  "main": "index.js",
+  "repository": "https://github.com/matthijswillems/cube-plugin-test.git",
+  "author": "matthijs.willems@groupm.com",
+  "license": "none",
+  "package name": "@matthijswillems/cube-plugin-test",
+  "test command": "exit 0"
+}
